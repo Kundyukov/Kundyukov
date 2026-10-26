@@ -1,5 +1,6 @@
-## Hi there 👋
+C++ developer. Master's student. Working on side projects in my free time.
 
+[![My Skills](https://skillicons.dev/icons?i=cpp,qt,cmake,python)](https://skillicons.dev)
 <!--
 **Kundyukov/Kundyukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
